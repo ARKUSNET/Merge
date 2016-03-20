@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\bin\Debug\Merge.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\bin\Debug\Merge.exe
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\bin\Debug\Merge.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.Merge.resources
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.exe
+c:\users\admin\documents\visual studio 2015\Projects\Merge\Merge\obj\Debug\Merge.pdb
